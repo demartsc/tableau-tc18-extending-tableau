@@ -1,0 +1,1 @@
+This is a simple repository to support the demostration done at #TC18. The files included provide the assets needed to execute the map projections and semiotic hierarchy extensions presented in Tableau. 
